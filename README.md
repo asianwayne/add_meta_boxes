@@ -1,5 +1,5 @@
-# add_meta_boxes
-add_meta_boxes
+# add_meta_boxes wordpress主题开发教学群 706173813
+add_meta_boxes 
 不用插件自己添加文章或者页面自定义字段的方法
 首先在主题下面创建inc或者framework的文件夹，
 把functions_metxboxes.php和admin-upload-image.js放进去，文件名字可以自己随便取。
