@@ -1,4 +1,4 @@
-# wptheme add_meta_boxes
+# add_meta_boxes
 add_meta_boxes
 不用插件自己添加文章或者页面自定义字段的方法
 首先在主题下面创建inc或者framework的文件夹，
