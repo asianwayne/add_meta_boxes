@@ -82,3 +82,7 @@ add_meta_box('abt_post_seo_meta',__('Post Seo Meta','ablog-theme'),'abt_post_seo
     
     wp已经安排好了一切。
     
+
+注意要用到图片上传字段的话要用到Js来调用wp.media的图片上传输入框，js文件在admin-upload.js里面。通过js将图片选择信息导入到json里面去。
+
+
